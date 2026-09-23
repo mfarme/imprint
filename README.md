@@ -1,5 +1,9 @@
 # Imprint
 
+<p align="center">
+  <img src="public/imprint.png" alt="Imprint logo" width="180">
+</p>
+
 ## Human intent at the source of software
 
 Software is becoming easier to generate. As agents grow more capable, implementation becomes more replaceable, but the human contribution becomes more important.
