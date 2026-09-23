@@ -1,6 +1,6 @@
 ---
 name: review
-description: Use when reviewing an intent-native change or generated implementation for behavioral correctness and traceability.
+description: Use when reviewing an Imprint change or generated implementation for behavioral correctness and traceability.
 ---
 
 # Review
