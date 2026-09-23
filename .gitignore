@@ -1,0 +1,15 @@
+# Generated implementation and local agent state
+.implementation/*
+!.implementation/README.md
+.agent/local/
+.agent/runs/
+
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+
+# Common local artifacts
+.DS_Store
+__pycache__/
+node_modules/
