@@ -41,6 +41,8 @@ The repository preserves the human imprint through:
 
 Natural language supplies meaning; structure supplies handles. Headings, requirement identifiers, commitments, scenarios, terminology, decisions, and manifests make the human imprint discoverable, testable, and portable across agent harnesses.
 
+The canonical Hermes skill package lives at `skills/imprint/SKILL.md`; the `.agent/skills/` copy is retained for repository-local harness compatibility.
+
 ## Compatibility
 
 The repository uses ordinary Markdown and folders. It is designed to work with Codex, Claude Code, Gemini CLI, Cursor, Aider, OpenCode, Hermes, and other harnesses that can read repository context files. Adapt the command names in `AGENTS.md` to the harness used by a project.
