@@ -4,6 +4,10 @@
 
 This repository uses the Imprint workflow. Bring human intent, decisions, taste, and acceptance to the front of the project. Treat the human-authored specification as canonical and `.implementation/` as generated or derived unless a file explicitly says otherwise.
 
+## Project initialization
+
+When the user is starting a project, defining a product, or has incomplete requirements, read `skills/imprint/SKILL.md` and conduct the Imprint interview one question at a time before generating implementation. Summarize the confirmed imprint and wait for approval before building.
+
 ## Before changing anything
 
 1. Read `docs/project-charter.md`.
